@@ -18,7 +18,7 @@ Details of the method can be found in the manuscript on [bioRxiv](https://www.bi
 To install Cobolt from GitHub, run the following:
 
 ```bash
-pip install git+https://github.com/epurdom/cobolt.git#egg=cobolt
+python3 -m pip install git+https://github.com/xiachenrui/cobolt_benchmark.git#egg=cobolt
 ```
 
 ## Tutorials
